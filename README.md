@@ -1,8 +1,6 @@
 # open-source-cart-extender
 An open source diy cart extender for use with the analogue pocket and other gameboy system.
 
-Note: Currently consider a WIP.
-
 Use this cart extender to increase the height of a gameboy cartriage and allow clearence for accessories that would not normally fit (Action Replay, E-Reader, etc...).
 
 ## How to Order (JLCPCB Example)

@@ -12,7 +12,8 @@ Use this cart extender to increase the height of a gameboy cartriage and allow c
 6. Optional: Change color of pcb (currently at .8mm, any color but green is expensive).
 
 ## Cart Slot
-This is design to use slots that are labeled for GBC/GBA (Not GBA/NDS). [One example](https://www.aliexpress.com/item/3256804009829359.html?spm=a2g0o.productlist.0.0.684d6605u0dxnl&algo_pvid=da947891-12ba-448c-8b1e-016a1b14b894&algo_exp_id=da947891-12ba-448c-8b1e-016a1b14b894-1&pdp_ext_f=%7B%22sku_id%22%3A%2212000028347121901%22%7D&pdp_npi=2%40dis%21USD%21%213.62%21%21%21%21%21%402101e9d416535404788726621e758e%2112000028347121901%21sea)
+This is design to use slots that are labeled for GBC/GBA (Not GBA/NDS). [One example](https://www.aliexpress.com/item/3256804009829359.html
+[One more example](https://www.aliexpress.us/item/3256802306023288.html)
 
 ## Shell Options
 You have two options for shells:

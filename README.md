@@ -17,5 +17,5 @@ This is design to use slots that are labeled for GBC/GBA. [One example](https://
 
 ## Shell Options
 You have two options for shells:
-1. 3d print [this shell](https://www.thingiverse.com/thing:6437413). It is recommened to fit the pcb to the shell and trim the to post before soldering the slot to the board.
+1. 3d print [this shell](https://www.thingiverse.com/thing:6437413). It is recommened to fit the pcb to the shell to test fit before soldering the slot.
 2. Cut a reproduction gbc shell to size (also removing the bottom portion of the shell to prevent it from pressing the gbc/gba selection switch).

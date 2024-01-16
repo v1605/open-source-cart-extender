@@ -1,7 +1,7 @@
-# open-source-cart-extender
+# Open Source Cart Extender
 An open source diy cart extender for use with the analogue pocket and other gameboy system.
 
-Use this cart extender to increase the height of a gameboy cartriage and allow clearence for accessories that would not normally fit (Action Replay, E-Reader, etc...).
+Use this cart extender to increase the height of a gameboy cartriage and allow clearence for accessories that would not normally fit (Action Replay, boktai, E-Reader, etc...).
 
 ## How to Order (JLCPCB Example)
 1. Download the gerber file in the directory.
@@ -12,10 +12,10 @@ Use this cart extender to increase the height of a gameboy cartriage and allow c
 6. Optional: Change color of pcb (currently at .8mm, any color but green is expensive).
 
 ## Cart Slot
-This is design to use slots that are labeled for GBC/GBA (Not GBA/NDS). [One example](https://www.aliexpress.com/item/3256804009829359.html
-[One more example](https://www.aliexpress.us/item/3256802306023288.html)
+This is design to use slots that are labeled for GBC/GBA. [One example](https://www.aliexpress.com/item/3256804009829359.html) and
+[One more example](https://www.aliexpress.us/item/3256801789787759.html)
 
 ## Shell Options
 You have two options for shells:
-1. 3d print [this shell](https://www.thingiverse.com/thing:5395200). It is recommened to fit the pcb to the shell and trim the to post before soldering the slot to the board.
+1. 3d print [this shell](https://www.thingiverse.com/thing:6437413). It is recommened to fit the pcb to the shell and trim the to post before soldering the slot to the board.
 2. Cut a reproduction gbc shell to size (also removing the bottom portion of the shell to prevent it from pressing the gbc/gba selection switch).

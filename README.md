@@ -7,8 +7,10 @@ An open source diy cart extender for use with the analogue pocket and other game
 
 Use this cart extender to increase the height of a gameboy cartriage and allow clearence for accessories that would not normally fit (Action Replay, boktai, E-Reader, etc...).
 
+There are two versions of the pcb. There is the "long" version which is taller to accommodate the E-Reader. The regular version is better suited for Boktai and other games, as it sits flush with the height of the pocket.
+
 ## How to Order (JLCPCB Example)
-1. Download the gerber file in the directory.
+1. Download the gerber.zip or gerberLong.zip file in the directory.
 2. Navigate to the JLCPCB site and select order now.
 3. Upload the gerber file.
 4. Change the pcb thickness to .8mm
